@@ -1,0 +1,18 @@
+#Services img{
+    height: 100px;
+}
+
+#Contact a{
+    text-decoration: none;
+    color: black;
+}
+
+nav .navbar-brand{
+    font-family:'poppins';
+    font-weight:800px;
+    font-size: 25px;
+}
+
+#navmenu li{
+    font-family:"poppins";
+}
